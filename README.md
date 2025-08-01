@@ -1,4 +1,4 @@
-Grocery & Medicine Manager
+Grocery & Medicine Manager:
 Grocery & Medicine Manager is a web application designed to help users efficiently manage grocery and medical inventory in one place.
 With an intuitive interface, category-based organization, and flexible item tracking, it helps you streamline your home management and
 keep your kitchen and medical supplies under control.
